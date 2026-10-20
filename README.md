@@ -18,6 +18,6 @@ test result: ok. 3 passed; 0 failed
 
 p2panda-auth 0.7.1 needs Rust 1.96 or newer; these ran on 1.99.1. The expected members come from the rules in the crate's documentation, not from a run of the code. This is a feasibility check before a larger study, not a review of p2panda-auth.
 
-Written with AI coding assistants under the direction of Amir Daneshpajouh, and checked by its tests.
+Licence: EUPL-1.2 (see LICENSE). Made by InfinitX Labs Inc.
 
-Licence: EUPL-1.2.
+Its code and documentation were written with AI coding assistants under the direction of Amir Daneshpajouh, and checked by their tests and an AI-assisted release check before publication.

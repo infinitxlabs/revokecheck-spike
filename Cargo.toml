@@ -4,7 +4,7 @@ version = "0.0.1"
 edition = "2021"
 license = "EUPL-1.2"
 publish = false
-description = "Feasibility spike: hand-written revocation cases against p2panda-auth 0.7.1, checked in every causal delivery order"
+description = "Feasibility spike: three revocation cases against p2panda-auth 0.7.1, checked in every causal delivery order"
 
 [dependencies]
 p2panda-auth = { version = "=0.7.1", features = ["test"] }
